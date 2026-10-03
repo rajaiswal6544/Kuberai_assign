@@ -1,0 +1,4 @@
+# Shell scripts and the Makefile run inside Linux containers; CRLF breaks them.
+* text=auto
+*.sh text eol=lf
+Makefile text eol=lf

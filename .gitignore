@@ -1,0 +1,7 @@
+.env
+logs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+reconcile_report.json
